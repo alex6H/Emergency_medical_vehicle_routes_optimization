@@ -6,8 +6,8 @@ ORIGINAL NAME :
 _"Optimisation d’itinéraires des véhicules médicaux d’urgence à l’aide de données de position.
 Application aux données du Service d’Incendie et Aide Médicale Urgente de Bruxelles-Capitale"_
 
-LANGUAGE :
-French
+LINK TO THESIS (in french) :
+https://github.com/alex6H/Emergency_medical_vehicle_routes_optimization/blob/main/HUART_Optimisation_itin%C3%A9raires_2019.pdf
 
 AUTHOR :
 Alexis Huart
