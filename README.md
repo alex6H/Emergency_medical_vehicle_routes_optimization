@@ -2,17 +2,17 @@
 
 Here is the code and final result of my Master's thesis in Information and Communication Technology at the Université Libre de Bruxelles (https://www.ulb.be/fr/programme/ma-stic). This work got the best results of the promotion 2018 - 2019.
 
-ORIGINAL NAME : 
+## ORIGINAL NAME : 
 _"Optimisation d’itinéraires des véhicules médicaux d’urgence à l’aide de données de position.
 Application aux données du Service d’Incendie et Aide Médicale Urgente de Bruxelles-Capitale"_
 
-LINK TO THESIS (in french) :
+## LINK TO THESIS (in french) :
 https://github.com/alex6H/Emergency_medical_vehicle_routes_optimization/blob/main/HUART_Optimisation_itin%C3%A9raires_2019.pdf
 
-AUTHOR :
+## AUTHOR :
 Alexis Huart
 
-ABSTRACT : 
+## ABSTRACT : 
 The patients survival rate out-of-hospital depends directly on how
 quickly emergency medical services (EMS) arrive. Therefore, the vehicle with the shortest
 estimated time of arrival (ETA) should be sent to the scene. This is a considerable
@@ -30,7 +30,7 @@ congestion clearly modifies the average speed of EMS during peak hours. From
 the speed analysis, we obtain a draft of a functional navigation system, based on data
 with a realistic ETA.
 
-KEYWORDS : Operations research, Intelligent transport systems, ITS, Service d’incendie
+## KEYWORDS : Operations research, Intelligent transport systems, ITS, Service d’incendie
 et d’aide médicale urgente, SIAMU, Estimated time of arrival, ETA, Emergency
 medical services, EMS, Open source routing machine, OSRM, OpenStreetMap, OSM,
 Map matching, Bruxelles.
