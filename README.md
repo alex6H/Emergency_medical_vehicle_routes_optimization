@@ -1,6 +1,6 @@
 # Emergency_medical_vehicle_routes_optimization
 
-Here is the code and final result of my Master's thesis in Information and Communication Technology at the Université Libre de Bruxelles (https://www.ulb.be/fr/programme/ma-stic). This work got the best results of the promotion 2018 - 2019.
+Here is the code and final result of my Master's thesis in Information and Communication Technology at the Université Libre de Bruxelles (https://www.ulb.be/fr/programme/ma-stic). This work got the highest grade for the 2018-2019 academic year.
 
 ## Thesis : 
 _"Optimisation d’itinéraires des véhicules médicaux d’urgence à l’aide de données de position.
