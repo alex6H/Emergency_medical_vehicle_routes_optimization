@@ -19,7 +19,7 @@ Author : Alexis Huart
 
 **Link to thesis (in french) :** [Emergency Medical Vehicle Routes Optimization](https://github.com/alex6H/Emergency_medical_vehicle_routes_optimization/blob/main/HUART_Optimisation_itin%C3%A9raires_2019.pdf)
 
-### Abstract : 
+## Abstract : 
 The patients survival rate out-of-hospital depends directly on how quickly emergency medical services (EMS) arrive. Therefore, the vehicle with the shortest estimated time of arrival (ETA) should be sent to the scene. This is a considerable challenge, particularly in urban areas where traffic congestion is significant and the road network complex. Currently, ETA is calculated on a theoretical basis. This work attempts to create a draft navigation system based on position data and therefore actual speeds. The aim is to identify the influence of traffic, improve ETA, enhance vehicle selection and route choice. The concept is applied to [Brussels fire and emergency medical service](https://be.brussels/en/about-region/structure-and-organisations/administrations-and-institutions-region/siamurbc/location-our-fire-stations) data. The average speeds of EMS vehicles are calculated and input into a navigation system. The experiment uses the Open Source RoutingMachine library for map matching and routing, as well as a Python script for error correction and speed calculation. The procedure and results are compared to the [Poulton study](https://arxiv.org/pdf/1812.03181), the only work to date using position data for EMS navigation. In Brussels, we observe that automobile congestion clearly modifies the average speed of EMS during peak hours. From the speed analysis, we obtain a draft of a functional navigation system, based on data with a realistic ETA.
 
 ## Research Problem
@@ -57,7 +57,7 @@ Current EMS dispatch systems calculate Estimated Time of Arrival (ETA) using the
 
 - **Routing engine**: [OSRM (Open Source Routing Machine)](https://project-osrm.org/)
 - **Programming**: Python for data processing and error correction
-- **Mapping data**: OpenStreetMap (OSM)
+- **Mapping data**: [OpenStreetMap (OSM)](https://www.openstreetmap.org/)
 - **GIS processing**: Map matching and route calculation
 - **Data source**: Brussels SIAMU vehicle tracking data
 
@@ -80,7 +80,7 @@ Current EMS dispatch systems calculate Estimated Time of Arrival (ETA) using the
 **Methodology**
 - The thesis combines a theoretical review (EMS organization, routing theory, map matching) and a practical application to Brussels EMS data.
 - Data is cleaned, filtered, and processed using OSRM and Python geospatial libraries to reconstruct and analyze routes.
-- The system's ETA predictions and routing are compared against prior research (notably the London Ambulance Service study).
+- The system's ETA predictions and routing are compared against prior research (notably the [London Ambulance Service study](https://arxiv.org/pdf/1812.03181)).
       
 ## Chapter 2: Urban GNSS Positioning & Sensor Integration
 
@@ -202,7 +202,16 @@ Available: https://github.com/alex6H/Emergency_medical_vehicle_routes_optimizati
 ```
 
 ## Keywords : 
-Operations research, Intelligent transport systems, ITS, Service d’incendie
-et d’aide médicale urgente, SIAMU, Estimated time of arrival, ETA, Emergency
-medical services, EMS, Open source routing machine, OSRM, OpenStreetMap, OSM,
-Map matching, Bruxelles.
+`Operations research`, `Intelligent transport systems`, `ITS`, `Service d’incendie et d’aide médicale urgente`, `SIAMU`,
+`Estimated time of arrival`, `ETA`, `Emergency medical services`, `EMS`,
+`Open source routing machine`, `OSRM`, `OpenStreetMap`, `OSM`, `Map matching`,
+`Bruxelles`, `Brussels`, `Geographic Information Systems`, `GIS`, `Spatial analysis`,
+`Routing algorithms`, `Shortest path`, `Traffic congestion`, `Real-time data`,
+`GPS tracking`, `Trajectory analysis`, `Urban mobility`, `Emergency response`,
+`Dispatch optimization`, `Healthcare logistics`, `Fleet management`, `Dynamic routing`,
+`Contraction Hierarchies`, `Hidden Markov Model`, `HMM`, `Map-matching algorithms`,
+`Travel time prediction`, `Navigation system`, `Data-driven decision making`,
+`Public safety`, `Urban transport`, `Road network analysis`, `Geospatial data`,
+`Python`, `PostgreSQL`, `Geopandas`, `Shapely`, `Data cleaning`,
+`Transport modelling`, `Mobility data`, `Critical infrastructure`,
+`Incident response`, `Location-based services`, `Vehicle tracking`, `Spatial database`
